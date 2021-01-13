@@ -1,7 +1,7 @@
 {
 	"name": "hika.js",
 	"version": "1.0.0",
-	"main": "index.js",
+	"main": "src/Hika.js",
 	"repository": "https://github.com/EliTheCoder/hika.js.git",
 	"author": "EliTheCoder <elithecoder@elithecoder.com>, AlexCheese",
 	"license": "MIT",

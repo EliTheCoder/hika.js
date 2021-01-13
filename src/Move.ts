@@ -1,3 +1,5 @@
-type Move = [string, string, number[]];
+import Vector from "./Vector";
+
+type Move = [string, Vector, Vector];
 
 export default Move;
