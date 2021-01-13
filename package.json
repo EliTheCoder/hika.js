@@ -1,0 +1,11 @@
+{
+	"name": "hika.js",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/EliTheCoder/hika.js.git",
+	"author": "EliTheCoder <elithecoder@elithecoder.com>, AlexCheese",
+	"license": "MIT",
+	"dependencies": {
+		"typescript": "^4.1.3"
+	}
+}
